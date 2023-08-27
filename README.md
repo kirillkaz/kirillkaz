@@ -14,4 +14,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg"  title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" heigth="40">&nbsp;
 </div>
